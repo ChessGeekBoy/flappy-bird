@@ -1,4 +1,4 @@
-function generateTowers(maxHeight: number, towerCount : number) : number[] {
+function generateTowers(maxHeight : number, towerCount : number) : number[] {
     let towers : number[] = [];
     
     for (let counter = 0; counter < towerCount; counter++) {
@@ -8,4 +8,16 @@ function generateTowers(maxHeight: number, towerCount : number) : number[] {
     }
 
     return towers;
+}
+
+function renderTowers(towerHeights : number[]) : void {
+         
+}
+
+function toPixelString(tower : number) : string {
+    let pixelString: string = "";
+
+
+
+    return pixelString;
 }
