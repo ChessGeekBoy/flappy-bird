@@ -1,4 +1,4 @@
-export namespace towerManagement {
+namespace towerManagement {
     export function generateTowers(maxHeight: number, towerCount: number): number[] {
         let towers: number[] = [];
     
