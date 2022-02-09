@@ -11,7 +11,7 @@ function generateTowers(maxHeight : number, towerCount : number) : number[] {
 }
 
 function renderTowers(towerHeights : number[]) : void {
-         
+        
 }
 
 function toPixelString(tower : number) : string {
