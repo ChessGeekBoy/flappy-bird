@@ -24,8 +24,16 @@ namespace towerManagement {
     }
 
     export class TowerManager {
-        constructor(screenWidth : number, onPixel : string, offPixel : string ) {
-            
+        screenHeight : number;
+        onPixel: string;
+        offPixel: string;
+
+
+
+        constructor(screenHeight : number, onPixel : string, offPixel : string ) {
+            this.screenHeight = screenHeight;
+            this.onPixel = onPixel;
+            this.offPixel = offPixel;
         }
     }
 }
