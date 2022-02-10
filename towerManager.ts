@@ -22,4 +22,10 @@ namespace towerManagement {
 
         return pixelString;
     }
+
+    export class TowerManager {
+        constructor(screenWidth : number, onPixel : string, offPixel : string ) {
+            
+        }
+    }
 }
