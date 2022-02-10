@@ -9,7 +9,6 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "towerManager.ts",
         "README.md"
     ],
     "testFiles": [
