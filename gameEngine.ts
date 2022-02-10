@@ -1,4 +1,4 @@
-namespace towerManagement {
+namespace gameEngine {
     export class TowerManager {
         screenHeight : number;
         onPixel: string;
