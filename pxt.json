@@ -9,7 +9,7 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "towerManager.ts",
+        "gameEngine.ts",
         "README.md"
     ],
     "testFiles": [
