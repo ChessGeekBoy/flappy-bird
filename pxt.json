@@ -9,7 +9,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "gameEngine.ts",
+        "towerManager.ts",
+        "physics.ts",
+        "difficulty,ts",
         "README.md"
     ],
     "testFiles": [
