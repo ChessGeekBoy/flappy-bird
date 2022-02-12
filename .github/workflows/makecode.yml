@@ -44,5 +44,5 @@ jobs:
         with:
           files: Release.txt
           tag_name: "automated-release"
-          name: "Flappy-Bird"
+          name: "Flappy-Bird(automated release)"
           body: "Automated .hex file release."
