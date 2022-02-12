@@ -1,6 +1,13 @@
 name: MakeCode
 
-on: [push]
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  # Run workflow manually
+  workflow_dispatch:
 
 jobs:
   build:
