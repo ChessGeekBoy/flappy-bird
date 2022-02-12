@@ -46,5 +46,5 @@ jobs:
           tag_name: "automated-release"
           name: "Flappy-Bird(automated release)"
           body: "Automated .hex file release."
-          prerelease: true
+          #prerelease: true
           #^^^change this when no longer prerelease ^^^.
