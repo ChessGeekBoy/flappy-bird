@@ -13,6 +13,7 @@ include:
 title: Flappy-Bird
 description: 
 
+show_downloads: true
 github:
   github.zip_url: https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release
   github.tar_url: https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release
