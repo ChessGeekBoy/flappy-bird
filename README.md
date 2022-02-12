@@ -1,7 +1,7 @@
 # Flappy-Bird
 > Open this page at [https://chessgeekboy.github.io/flappy-bird/](https://chessgeekboy.github.io/flappy-bird/)
 
-Hex file release: **https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release**
+Hex file release: **https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release** <br>
 
 ## Webflow status
 [![Check pxt.json](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/cfg-check.yml/badge.svg)](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/cfg-check.yml) <br>
@@ -10,33 +10,33 @@ Hex file release: **https://github.com/ChessGeekBoy/flappy-bird/releases/tag/aut
 
 ## Using
 
-download the hex file from **https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release** <br>
+download the hex file from https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release <br>
 
 **---OR---** <br>
 
-This repository can be added as an **extension** in MakeCode.
+This repository can be added as an **extension** in MakeCode.<br>
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/chessgeekboy/flappy-bird** and import <br>
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/) <br>
+* click on **New Project** <br>
+* click on **Extensions** under the gearwheel menu <br>
+* search for https://github.com/chessgeekboy/flappy-bird and import <br>
 
 ## Edit this project
 
-To edit this repository in MakeCode.
+To edit this repository in MakeCode. <br>
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/chessgeekboy/flappy-bird** and click import
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/) <br>
+* click on **Import** then click on **Import URL** <br>
+* paste https://github.com/chessgeekboy/flappy-bird and click import <br>
 
 ## Blocks preview(broken)
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+This image shows the blocks code from the last commit in master. <br>
+This image may take a few minutes to refresh. <br>
 
-![A rendered view of the blocks](https://github.com/chessgeekboy/flappy-bird/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/chessgeekboy/flappy-bird/raw/master/.github/makecode/blocks.png) <br>
 
 #### Metadata (used for search, rendering)
 
-* for PXT/microbit
+* for PXT/microbit <br>
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
