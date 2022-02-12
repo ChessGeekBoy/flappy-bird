@@ -16,6 +16,8 @@ This repository can be added as an **extension** in MakeCode.
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/chessgeekboy/flappy-bird** and import
+**---OR---**
+download the hex file from **https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release**
 
 ## Edit this project ![Build status badge](https://github.com/chessgeekboy/flappy-bird/workflows/MakeCode/badge.svg)
 
