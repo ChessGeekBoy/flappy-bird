@@ -9,3 +9,6 @@ plugins:
 include:
   - assets
   - README.md
+
+title: Flappy-Bird
+description: Flappy bird on the BBC micro:bit.
