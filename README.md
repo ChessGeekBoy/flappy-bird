@@ -23,6 +23,8 @@ This repository can be added as an **extension** in MakeCode.<br>
 
 ## Edit this project
 
+**Info for editing outside of makecade editor coming soon.**
+
 To edit this repository in MakeCode. <br>
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/) <br>
