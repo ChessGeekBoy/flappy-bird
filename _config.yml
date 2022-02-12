@@ -11,4 +11,8 @@ include:
   - README.md
 
 title: Flappy-Bird
-#description: Flappy bird on the BBC micro:bit.
+description: 
+
+github:
+  github.zip_url: https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release
+  github.tar_url: https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release
