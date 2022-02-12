@@ -43,4 +43,6 @@ jobs:
         #if: startsWith(github.ref, 'refs/tags/')
         with:
           files: Release.txt
-          tag_name: "release"
+          tag_name: "automated-release"
+          name: "Flappy-Bird"
+          body: "Automated .hex file release."
