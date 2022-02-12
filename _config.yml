@@ -11,4 +11,4 @@ include:
   - README.md
 
 title: Flappy-Bird
-description: Flappy bird on the BBC micro:bit.
+#description: Flappy bird on the BBC micro:bit.
