@@ -1,7 +1,7 @@
 # Flappy-Bird
 > Open this page at [https://chessgeekboy.github.io/flappy-bird/](https://chessgeekboy.github.io/flappy-bird/)
 
-Hex file release: **https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release** <br>
+Hex file release: https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release <br>
 
 ## Webflow status
 [![Check pxt.json](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/cfg-check.yml/badge.svg)](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/cfg-check.yml) <br>
