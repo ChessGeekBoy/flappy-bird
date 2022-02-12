@@ -21,7 +21,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/chessgeekboy/flappy-bird** and import <br>
 
-## Edit this project ![Build status badge](https://github.com/chessgeekboy/flappy-bird/workflows/MakeCode/badge.svg)
+## Edit this project
 
 To edit this repository in MakeCode.
 
