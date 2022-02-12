@@ -1,4 +1,4 @@
-
+# Flappy-Bird
 > Open this page at [https://chessgeekboy.github.io/flappy-bird/](https://chessgeekboy.github.io/flappy-bird/)
 
 Hex file release: **https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release**
