@@ -1,7 +1,7 @@
 # Flappy-Bird
 > Open this page at [https://chessgeekboy.github.io/flappy-bird/](https://chessgeekboy.github.io/flappy-bird/)
 
-Hex file release: https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release <br>
+Hex file release: [https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release](https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release) <br>
 
 ## Webflow status
 [![Check pxt.json](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/cfg-check.yml/badge.svg)](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/cfg-check.yml) <br>
@@ -19,7 +19,7 @@ This repository can be added as an **extension** in MakeCode.<br>
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/) <br>
 * click on **New Project** <br>
 * click on **Extensions** under the gearwheel menu <br>
-* search for https://github.com/chessgeekboy/flappy-bird and import <br>
+* search for [https://github.com/chessgeekboy/flappy-bird](https://github.com/chessgeekboy/flappy-bird) and import <br>
 
 ## Edit this project
 
@@ -29,7 +29,7 @@ To edit this repository in MakeCode. <br>
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/) <br>
 * click on **Import** then click on **Import URL** <br>
-* paste https://github.com/chessgeekboy/flappy-bird and click import <br>
+* paste [https://github.com/chessgeekboy/flappy-bird](https://github.com/chessgeekboy/flappy-bird) and click import <br>
 
 ## Blocks preview(broken)
 
