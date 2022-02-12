@@ -10,7 +10,7 @@ Hex file release: https://github.com/ChessGeekBoy/flappy-bird/releases/tag/autom
 
 ## Using
 
-download the hex file from the [releases](https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release). <br>
+Download the hex file from the [releases](https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release). <br>
 
 **---OR---** <br>
 
