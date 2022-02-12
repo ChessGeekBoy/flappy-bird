@@ -8,7 +8,7 @@ Hex file release: **https://github.com/ChessGeekBoy/flappy-bird/releases/tag/aut
 [![MakeCode](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/makecode.yml/badge.svg)](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/makecode.yml) <br>
 [![pages-build-deployment](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/pages/pages-build-deployment) <br>
 
-## Use as Extension
+## Using
 
 download the hex file from **https://github.com/ChessGeekBoy/flappy-bird/releases/tag/automated-release** <br>
 
