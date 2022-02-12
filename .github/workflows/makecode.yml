@@ -38,11 +38,14 @@ jobs:
           CI: true
       - name: Test
         run: cat Release.txt
+      - name: Release prep
+        run: |
+          mv built/binary.hex flappy-bird.hex
       - name: Release
         uses: softprops/action-gh-release@v1
         #if: startsWith(github.ref, 'refs/tags/')
         with:
-          files: Release.txt
+          files: built/flappy-bird.hex
           tag_name: "automated-release"
           name: "Flappy-Bird(automated release)"
           body: "Automated .hex file release."
