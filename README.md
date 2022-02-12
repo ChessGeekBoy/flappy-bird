@@ -1,7 +1,7 @@
 
 > Open this page at [https://chessgeekboy.github.io/flappy-bird/](https://chessgeekboy.github.io/flappy-bird/)
 
-## Webflows status
+## Webflow status
 [![Check pxt.json](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/cfg-check.yml/badge.svg)](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/cfg-check.yml) <br>
 [![MakeCode](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/makecode.yml/badge.svg)](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/makecode.yml) <br>
 [![pages-build-deployment](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ChessGeekBoy/flappy-bird/actions/workflows/pages/pages-build-deployment) <br>
