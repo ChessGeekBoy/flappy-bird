@@ -23,7 +23,7 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/chessgeekboy/flappy-bird** and click import
 
-## Blocks preview
+## Blocks preview(broken)
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
