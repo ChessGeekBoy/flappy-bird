@@ -12,6 +12,7 @@
         "towerManager.ts",
         "physics.ts",
         "difficulty.ts",
+        "coordinate.ts",
         "README.md"
     ],
     "testFiles": [

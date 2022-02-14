@@ -1,5 +1,5 @@
 namespace gameEngine {
-    class Coordinate {
+    export class Coordinate {
         x : number;
         y: number;
 
