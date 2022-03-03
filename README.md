@@ -31,12 +31,12 @@ To edit this repository in MakeCode. <br>
 * click on **Import** then click on **Import URL** <br>
 * paste [https://github.com/chessgeekboy/flappy-bird](https://github.com/chessgeekboy/flappy-bird) and click import <br>
 
-## Blocks preview(broken)
+<!--## Blocks preview(broken)
 
 This image shows the blocks code from the last commit in master. <br>
 This image may take a few minutes to refresh. <br>
 
-![A rendered view of the blocks](https://github.com/chessgeekboy/flappy-bird/raw/master/.github/makecode/blocks.png) <br>
+![A rendered view of the blocks](https://github.com/chessgeekboy/flappy-bird/raw/master/.github/makecode/blocks.png) <br> -->
 
 #### Metadata (used for search, rendering)
 
