@@ -8,9 +8,14 @@ namespace gameEngine {
             this.sprite = sprite;
         }
 
+        //Forever loop for gravity in a different thread
         initializeGravity() {
-            while (true) {
-                          
+            while (true) {        
+                control.inBackground(function() {
+                    basic.forever(function () {
+                        //gravity code here
+                    })
+                })
             }
         }
     }

@@ -1,6 +1,6 @@
 {
     "name": "Flappy Bird",
-    "description": "",
+    "description": "Flappy bird on the BBC micro:bit v2 and maybe v1.",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -19,7 +19,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.17",
+        "target": "4.0.18",
         "targetId": "microbit"
     },
     "supportedTargets": [

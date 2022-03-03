@@ -17,7 +17,7 @@ namespace gameEngine {
         }
 
         renderTowers() {
-
+            
         }
 
         generateTowers() : number[] {
