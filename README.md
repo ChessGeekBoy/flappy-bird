@@ -33,10 +33,10 @@ To edit this project in VSCODE. <br>
 * Clone this repo into a directory. <br>
 * Open vscode in that directory. <br>
 * Run the following commands in a terminal opened in that directory. <br>
-* Download pxt with ``npm install -g pxt`` <br>
-* Target the microbit with ``pxt target microbit`` <br>
-* Install with ``pxt install`` <br>
-* Build with ``pxt build`` and the hex file with be in the build folder called "binary.hex" <br>
+* Download pxt with ``npm install -g pxt``. <br>
+* Target the microbit with ``pxt target microbit``. <br>
+* Install with ``pxt install``. <br>
+* Build with ``pxt build`` and the hex file with be in the build folder called "binary.hex". <br>
 
 <!--## Blocks preview(broken)
 
