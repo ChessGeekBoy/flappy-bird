@@ -23,13 +23,20 @@ This repository can be added as an **extension** in MakeCode.<br>
 
 ## Edit this project
 
-**Info for editing outside of makecade editor coming soon.**
-
 To edit this repository in MakeCode. <br>
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/) <br>
 * click on **Import** then click on **Import URL** <br>
 * paste [https://github.com/chessgeekboy/flappy-bird](https://github.com/chessgeekboy/flappy-bird) and click import <br>
+
+To edit this project in VSCODE. <br>
+* Clone this repo into a directory. <br>
+* Open vscode in that directory. <br>
+* Run the following commands in a terminal opened in that directory. <br>
+* Download pxt with ``npm install -g pxt`` <br>
+* Target the microbit with ``pxt target microbit`` <br>
+* Install with ``pxt install`` <br>
+* Build with ``pxt build`` and the hex file with be in the build folder called "binary.hex" <br>
 
 <!--## Blocks preview(broken)
 
