@@ -30,6 +30,7 @@ To edit this repository in MakeCode. <br>
 * paste [https://github.com/chessgeekboy/flappy-bird](https://github.com/chessgeekboy/flappy-bird) and click import <br>
 
 To edit this project in VSCODE. <br>
+
 * Clone this repo into a directory. <br>
 * Open vscode in that directory. <br>
 * Run the following commands in a terminal opened in that directory. <br>
