@@ -7,6 +7,9 @@ namespace gameEngine {
 
         constructor(screenHeight : number, onPixel : string, offPixel : string, towerCount : number) {
             this.screenHeight = screenHeight;
+            if (onPixel.length > 1) {
+                
+            }
             this.onPixel = onPixel;
             this.offPixel = offPixel;
             this.towerCount = towerCount;
