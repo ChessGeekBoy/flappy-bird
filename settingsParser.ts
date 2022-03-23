@@ -1,10 +1,12 @@
 namespace gameEngine {
     export class SettingsParser {
-        static parseSettings(json: string) : void {
-            let object : any = JSON.parse(json);
+        static parseSettings(json : any) : void {
             let birdPosition: Coordinate
-                = new Coordinate(object["birdPosition"]["x"],
-                    object["birdPosition"]["y"]);
+                = new Coordinate
+                (
+                    json["birdPosition"]["x"],
+                    json["birdPosition"]["y"]
+                );
             game.createSprite(birdPosition.x, birdPosition.y);
         }
     }
