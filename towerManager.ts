@@ -1,17 +1,10 @@
 namespace gameEngine {
     export class TowerManager {
         screenHeight : number;
-        onPixel: string;
-        offPixel: string;
         towerCount: number;
 
-        constructor(screenHeight : number, onPixel : string, offPixel : string, towerCount : number) {
+        constructor(screenHeight : number, towerCount : number) {
             this.screenHeight = screenHeight;
-            if (onPixel.length > 1) {
-                
-            }
-            this.onPixel = onPixel;
-            this.offPixel = offPixel;
             this.towerCount = towerCount;
         }
 
@@ -23,8 +16,12 @@ namespace gameEngine {
             
         }
 
-        generateTowers() : number[] {
-            let towers: number[] = [];
+        generateTowers() : Coordinate[][] {
+            let towers: Coordinate[][] = [
+                [
+
+                ]
+            ];
     
             for (let counter = 0; counter < this.towerCount; counter++) {
                 // Rounds a random number and adds it to the towers array
