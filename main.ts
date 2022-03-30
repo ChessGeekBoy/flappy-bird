@@ -1,17 +1,18 @@
-let defaultSettings = {
-    "birdPosition": {
-        "x": 2,
-        "y": 2
-    }
-};
+// let defaultSettings = {
+//     "birdPosition": {
+//         "x": 2,
+//         "y": 2
+//     }
+// };
 
-gameEngine.SettingsParser.parseSettings(defaultSettings);
+// gameEngine.SettingsParser.parseSettings(defaultSettings);
 
-input.onButtonPressed(Button.A, function() {
+// input.onButtonPressed(Button.A, function() {
 
-});
+// });
 
+// Tower Generation
 let towerManager : gameEngine.TowerManager
-= new gameEngine.TowerManager(5, ".", "#", 20);
+= new gameEngine.TowerManager(5,20);
 
-let towers : number[] = towerManager.generateTowers();
+let towers: gameEngine.Coordinate[][] = towerManager.generateTowers();
